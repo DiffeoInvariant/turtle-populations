@@ -1,4 +1,4 @@
 # turtle-populations
-A model for sea turtle population growth modeled with Lefkovitch matrices, to be implemented in various languages.
+A model for sea turtle population growth modeled with Lefkovitch matrices.
 
 This is from a project for a differential equations and linear algebra class (https://www.colorado.edu/amath/sites/default/files/attached-files/turtle-project-5.pdf)
